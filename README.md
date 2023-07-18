@@ -5,7 +5,18 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Available Scripts
 
+Once you clone this repo first run:
+
+### `npm Install `
+
+Once installation is completed we need to start running our application for that we need to run
+
+### `ng serve`
+
+It runs the app in development mode.\
+Open [http://localhost:4200/]to view it in the browser.
 **In this Application, we have components!**
 
 1. `Form -inludes input field`
